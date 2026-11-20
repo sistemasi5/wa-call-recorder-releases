@@ -1,0 +1,6 @@
+{
+  "_ajuda": "para consertar uma maquina a distancia: command=reinstalar, command_id=<texto novo>, command_machine=<NOME-DA-MAQUINA>. deixe assim (sem command) quando nao houver nada a fazer.",
+  "command": "",
+  "command_id": "",
+  "command_machine": ""
+}
