@@ -1,6 +1,6 @@
 {
-  "_ajuda": "para consertar uma maquina a distancia: command=reinstalar, command_id=<texto novo>, command_machine=<NOME-DA-MAQUINA>. deixe assim (sem command) quando nao houver nada a fazer.",
-  "command": "",
-  "command_id": "",
-  "command_machine": ""
+  "_ajuda": "command=reinstalar|launcher|apagar; command_id=texto novo; command_machine=NOME; ids=[...] pro apagar",
+  "command": "reinstalar",
+  "command_id": "sarah-para-v30-20261123",
+  "command_machine": "DESKTOP-0HP1R0L"
 }
