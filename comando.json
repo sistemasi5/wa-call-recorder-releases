@@ -1,18 +1,6 @@
 {
-  "_ajuda": "apaga as gravacoes do bug do WhatsApp Web na maquina da Sarah; mantem o lead Lucas",
-  "command": "apagar",
-  "command_id": "limpar-sarah-20261123",
-  "command_machine": "DESKTOP-0HP1R0L",
-  "ids": [
-    "b9cfdaec-b58d-4195-a2e9-a72fd02c6946",
-    "799f0b7f-7d8a-4a07-b990-afd1330f552c",
-    "76bea6d9-2070-4304-9aed-9fe732878415",
-    "a6f8ac9d-aac5-4789-867e-f6fc1086248c",
-    "154cc59f-2720-4434-ad01-159fd90cb9bd",
-    "fb72c19e-bd28-4ee2-a449-cef6e59a2b2c",
-    "0ccd3456-bd7f-49da-b2c7-c4b055efa13e",
-    "e9eac3ba-ce69-4abb-92f5-075734e9eaa9",
-    "506bdef6-db0c-4869-a44d-cec4f9b74a24",
-    "2fc7e331-e310-4d44-9f79-ca75357d45be"
-  ]
+  "_ajuda": "command=reinstalar|launcher|apagar|listar_antigos|limpar_antigos",
+  "command": "reinstalar",
+  "command_id": "victor-para-v31-20261124",
+  "command_machine": "DESKTOP-L1IRDLH"
 }
